@@ -34,6 +34,9 @@
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
     "graphql": "^14.0.2",
-    "graphql-tools": "^4.0.2"
+    "graphql-tools": "^4.0.2",
+    "mysql": "^2.16.0",
+    "mysql2": "^1.6.1",
+    "sequelize": "^4.41.0"
   }
 }
